@@ -1,6 +1,6 @@
 NAME: JUNYI ZHANG (Gracia)
 ====
-<br><font size="3">email: zhangj32@rpi.edu  \<font>\<br>
+<br><font size=4>email: zhangj32@rpi.edu  \<font>\<br>
 <br>email: zhangj32@rpi.edu \<br>
 
 
