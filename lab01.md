@@ -45,3 +45,9 @@ Block Solution
 ![BlockSoln](https://user-images.githubusercontent.com/32678121/58656051-89a82600-82e9-11e9-9151-457bc3f117fc.jpg)
 
 
+Open Source Project Reflection
+-------
+* Project "Making your Own Image filter"
+    url: http://aosabook.org/en/500L/making-your-own-image-filters.html
+    
+    I'm right know studying TensorFlow with my friends trying to code out a program that could indicate different languanges. However, during the process, I've also noticed that TensorFlow is well-performanced in the field of image analysis, which drew me interests of AI on image processing. Therefore, this open source project attrated me at once. I hope this article could give me an overview about the Java on image processing. By reading through and working to understand this project, I want to broaden my mind of image analyzing, including what languages could be used and what are there advantages in this field.
