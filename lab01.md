@@ -38,3 +38,10 @@ RegCross Puzzles
 ![RegX2](https://user-images.githubusercontent.com/32678121/58655029-3503ab80-82e7-11e9-8db5-34bcbd60688e.jpg)
 ![RegX3](https://user-images.githubusercontent.com/32678121/58655030-3503ab80-82e7-11e9-9c39-44e7a45283b2.jpg)
 ![RegX4](https://user-images.githubusercontent.com/32678121/58655031-3503ab80-82e7-11e9-9e0e-f274a9242313.jpg)
+
+
+Block Solution
+------
+![BlockSoln](https://user-images.githubusercontent.com/32678121/58656051-89a82600-82e9-11e9-9151-457bc3f117fc.jpg)
+
+
