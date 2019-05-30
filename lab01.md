@@ -8,7 +8,7 @@ NAME: JUNYI ZHANG (Gracia)
 
 **slack handle: GUA**
 
-//photo of Ohno Satoshi ![img043](https://user-images.githubusercontent.com/32678121/58337935-e51f7300-7e14-11e9-8933-cde945d14383.jpg)
+
 <img043 src="https://user-images.githubusercontent.com/32678121/58337935-e51f7300-7e14-11e9-8933-cde945d14383.jpg" width="100" height="100">
 
 
