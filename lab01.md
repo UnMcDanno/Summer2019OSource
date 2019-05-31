@@ -22,8 +22,8 @@ Reading Assignments:
 Smart Questions
 -----
 * Do you have more suggestions for How To Answer Questions in a Helpful Way (from your past experience)?
-  1. If the question code was posted, try to fix the code instead of just typing with literal discription of the possible solution/fixation.
-   2.If you tried and could not solve the question, post what you have tried to save the newcomers time or probably to provide sparklings.
+  <br>1. If the question code was posted, try to fix the code instead of just typing with literal discription of the possible solution/fixation.<\br>
+   <br>2.If you tried and could not solve the question, post what you have tried to save the newcomers time or probably to provide sparklings.<\br>
    
    
 Free Culture Ch.3
