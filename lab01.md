@@ -31,6 +31,17 @@ Free Culture Ch.3
 * Write a short paragraph ( 8 to 10 sentences) of what you got out of reading that chapter.
     The first thing I learnt is definitely to go throught RIAA laws before beginning any likely related projects. The other thing is that, laws about open source hasn't yet developed flawlessly (but I didn't know the State law well the following will just be a guess) . For instance, the law question for Jesse was who indeed should take the responsibility of break the property law? The search engine developer Microsoft? These who uploaded the music files? Or Jesse the one who has proceeded the files and allow them to be uploaded? In my point of view, as long as open source keeps developing, the law issue could not be avoided because though the 10 criterias work for open source, they cannot be applied to modern law. Nevertheless, this is not a simple problem that can be solved in a short time,  therefore to save ourselves, the best way is to read through corresponed laws before starting the coding.
 
+RegTest problems
+-------
+![regTest6](https://user-images.githubusercontent.com/32678121/58703082-8b1f3000-8375-11e9-9b3e-d2a2dc9b17a1.jpg)
+![regTest7](https://user-images.githubusercontent.com/32678121/58703083-8b1f3000-8375-11e9-853d-a3b564d21c59.jpg)
+![regTest1](https://user-images.githubusercontent.com/32678121/58703084-8b1f3000-8375-11e9-9d7d-4cb599c4028c.jpg)
+![regTest2](https://user-images.githubusercontent.com/32678121/58703085-8b1f3000-8375-11e9-8202-d4de0d19ad74.jpg)
+![regTest3](https://user-images.githubusercontent.com/32678121/58703086-8b1f3000-8375-11e9-8963-4097846776bf.jpg)
+![regTest4](https://user-images.githubusercontent.com/32678121/58703087-8b1f3000-8375-11e9-8770-adafd621dd34.jpg)
+![regTest5](https://user-images.githubusercontent.com/32678121/58703088-8b1f3000-8375-11e9-815e-d132c4503b17.jpg)
+
+
     
 RegCross Puzzles
 ------
