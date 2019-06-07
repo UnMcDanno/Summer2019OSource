@@ -11,3 +11,5 @@
 
 <br>Compare to the #1, what's the difference?
 <br>* The line in the index.html is shown as '23124 (32711 added, 9587 removed)', whereas the bumber of lines in the bash was 26695.
+![difference](https://user-images.githubusercontent.com/32678121/59117379-8e895d00-891b-11e9-899e-0f4acc3d4916.jpg)
+
