@@ -24,7 +24,8 @@ MY LICENCSE:
 |     Website    | License Present | License |
 | :------------: | :-------------: | :-----: |
 | https://github.com/opencircuits/opencircuits   |  YES            |    [BSD-3-Clause](https://github.com/OpenCircuits/OpenCircuits/blob/master/LICENSE)     |
-| Mike           |  32             |         |
-| Mike           |  32             |         |
-| Mike           |  32             |         |
+|https://github.com/apexal/late     | YES             |     [MIT](https://opensource.org/licenses/MIT)    |
+| https://github.com/carolynann/rcos-campuswatch        |  YES             |   [MIT](https://github.com/CarolynAnn/rcos-campuswatch/blob/master/LICENSE)      |
+| https://github.com/alexanderfrancoletti/beyondthegrave         |  YES            |  [MIT](https://github.com/AlexanderFrancoletti/BeyondTheGrave/blob/master/LICENSE.txt)       |
+|   https://github.com/yacs-rcos/yacs       |  YES            |   [GNU (https://github.com/YACS-RCOS/yacs/blob/master/LICENSE.md)
 
