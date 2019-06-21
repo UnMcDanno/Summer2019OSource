@@ -19,7 +19,7 @@ MY LICENCSE:
   [Support Document](https://opensource.stackexchange.com/questions/1774/why-does-linux-still-use-the-gplv2)
   
 5) As a table, make up an open source project and a business model that you could use to make money from it.
-
+README.md: https://github.com/UnMcDanno/ProjectManIn/blob/master/README.md
 6) 
 |     Website    | License Present | License |
 | :------------: | :-------------: | :-----: |
@@ -27,5 +27,5 @@ MY LICENCSE:
 |https://github.com/apexal/late     | YES             |     [MIT](https://opensource.org/licenses/MIT)    |
 | https://github.com/carolynann/rcos-campuswatch        |  YES             |   [MIT](https://github.com/CarolynAnn/rcos-campuswatch/blob/master/LICENSE)      |
 | https://github.com/alexanderfrancoletti/beyondthegrave         |  YES            |  [MIT](https://github.com/AlexanderFrancoletti/BeyondTheGrave/blob/master/LICENSE.txt)       |
-|   https://github.com/yacs-rcos/yacs       |  YES            |   [GNU (https://github.com/YACS-RCOS/yacs/blob/master/LICENSE.md)
+|   https://github.com/yacs-rcos/yacs       |  YES            |   [GNU](https://github.com/YACS-RCOS/yacs/blob/master/LICENSE.md)
 
