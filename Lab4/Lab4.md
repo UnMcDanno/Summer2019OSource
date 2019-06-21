@@ -1,5 +1,5 @@
-LICENCSE:
-=========
+MY LICENCSE:
+---
 ![license](https://github.com/UnMcDanno/Summer2019OSource/blob/master/Lab4/license.png)
 
 1) Why it is important to choose a LICENSE?
@@ -15,5 +15,16 @@ LICENCSE:
   
 4) Can you justify why such a license is chosen based on the history, goals and philosophy of the project? (Justification for ONE choice is enough, but be specific and make sure you provide references to articles or web resources).
   LINUX:
+  First, Linux does not require contributors to assign copyright to some central person. Copyright on it is spread out among many, many people (including some who are dead, in which case much effort would be required to figure out who inherited the copyright). Any of them could stop a license switch, unless someone goes through and removes all parts of their work from the kernel. Because GPL v2 and v3 are incompatible, it is illegal to release Linux under v3 with any contributions licensed under v2 only.
+  [Support Document](https://opensource.stackexchange.com/questions/1774/why-does-linux-still-use-the-gplv2)
   
-  
+5) As a table, make up an open source project and a business model that you could use to make money from it.
+
+6) 
+|     Website    | License Present | License |
+| :------------: | :-------------: | :-----: |
+| https://github.com/opencircuits/opencircuits   |  YES            |    [BSD-3-Clause](https://github.com/OpenCircuits/OpenCircuits/blob/master/LICENSE)     |
+| Mike           |  32             |         |
+| Mike           |  32             |         |
+| Mike           |  32             |         |
+
