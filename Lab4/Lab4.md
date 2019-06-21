@@ -1,6 +1,6 @@
 LICENCSE:
 =========
-![license.png]<https://github.com/UnMcDanno/Summer2019OSource/blob/master/Lab4/license.png>
+![license](https://github.com/UnMcDanno/Summer2019OSource/blob/master/Lab4/license.png)
 
 1) Why it is important to choose a LICENSE?
   i. Give premission to use the software.
