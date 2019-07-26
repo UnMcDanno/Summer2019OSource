@@ -64,7 +64,7 @@ None
 
 # Four Letter Results
 
-![image](4wordcode.PNG)
+![image](4wordcode.jpg)
 
 
 Shortest path between acid and back is
